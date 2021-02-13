@@ -195,3 +195,7 @@ breadcrumbs:
       path: /
     - label: general.goals
       path: /goals
+disclaimer:
+  phase: My phase  
+  message: This is my disclaimer message.
+  
