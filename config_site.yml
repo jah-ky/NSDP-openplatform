@@ -206,3 +206,8 @@ goals_page:
     In quis tortor sed sapien fermentum vehicula. Morbi vel odio nisi. Ut commodo turpis eget quam pharetra semper. Pellentesque a enim suscipit,
     maximus dui nec, facilisis nisl. Morbi commodo ut enim vitae porttitor. Integer tempor ligula vitae enim auctor, gravida ullamcorper quam euismod. 
     Quisque hendrerit, velit in vestibulum malesuada, sapien metus viverra magna, nec mattis nisi nulla et eros.
+
+reporting_status:
+  title: my reporting status page
+  descriptiion: this should be a link [link to open sdg](https://open-sdg.org)
+
