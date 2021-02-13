@@ -200,4 +200,9 @@ breadcrumbs:
 disclaimer:
   phase: My phase  
   message: This is my disclaimer message.
-  
+goals_page:
+  title: goals page
+  description: Nulla eu eros velit. Donec nec vulputate diam. Phasellus condimentum pretium nibh, id mollis augue lobortis at.
+    In quis tortor sed sapien fermentum vehicula. Morbi vel odio nisi. Ut commodo turpis eget quam pharetra semper. Pellentesque a enim suscipit,
+    maximus dui nec, facilisis nisl. Morbi commodo ut enim vitae porttitor. Integer tempor ligula vitae enim auctor, gravida ullamcorper quam euismod. 
+    Quisque hendrerit, velit in vestibulum malesuada, sapien metus viverra magna, nec mattis nisi nulla et eros.
