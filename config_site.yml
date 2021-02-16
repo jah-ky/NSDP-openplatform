@@ -202,10 +202,12 @@ disclaimer:
   message: This is my disclaimer message.
 goals_page:
   title: goals page
-  description: Nulla eu eros velit. Donec nec vulputate diam. Phasellus condimentum pretium nibh, id mollis augue lobortis at.
-    In quis tortor sed sapien fermentum vehicula. Morbi vel odio nisi. Ut commodo turpis eget quam pharetra semper. Pellentesque a enim suscipit,
-    maximus dui nec, facilisis nisl. Morbi commodo ut enim vitae porttitor. Integer tempor ligula vitae enim auctor, gravida ullamcorper quam euismod. 
-    Quisque hendrerit, velit in vestibulum malesuada, sapien metus viverra magna, nec mattis nisi nulla et eros.
+  description: Vanuatu 2030 charts the countrys vision and overarching policy framework for achieving a Stable, Sustainable and Prosperous Vanuatu within the next ten years, and in doing
+       so sets out the national priorities and context for the implementation of the new global Sustainable Development Goals over the same period. The national vision and the framework for
+       action outlined in this plan have been informed by the priorities voiced by our people, their community and elected representatives, the private sector and civil society over the
+       course of a three-year consultation programme undertaken across the whole country. Our united voices articulate what we want for ourselves, our children, future generations and our country.
+       This is an ambitious plan. The government is committed to its implementation and monitoring, and to reporting on its progress. Success, however, is dependent on collective ownership of the 
+       plan and collaborative partnerships between the people, government, community leaders, businesses and civil society.
 
 reporting_status:
   title: my reporting status page
