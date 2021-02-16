@@ -209,5 +209,5 @@ goals_page:
 
 reporting_status:
   title: my reporting status page
-  descriptiion: this should be a link [link to open sdg](https://open-sdg.org)
+  descriptiion: "this should be a link: [link to open sdg](https://open-sdg.org)"
 
